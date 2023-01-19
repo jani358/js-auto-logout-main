@@ -1,4 +1,4 @@
-//Logout takes 5 seconds. If the mouse moves on the main page before the 5 seconds expires, the reset time is set.Then a countdown starts from the beginning.
+
 
 var timer = document.getElementById("timer");
 var duration = 5; // duration in seconds
